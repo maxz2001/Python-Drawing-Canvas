@@ -1,4 +1,4 @@
-# Endless-Runner
+# Drawing Canvas
 
 Hello, thank you for checking out my Drawing Canvas program! It is quite simple to use, and is similar to Microsoft Paint.
 
