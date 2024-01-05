@@ -10,7 +10,12 @@ https://github.com/maxz2001/Python-Drawing-Canvas/assets/99788435/18f3a0f9-0ea4-
 
 *****************************************************************************************************************************
 
-*If your system has problems opening the program, install Tkinter in terminal:
+*If your system has problems opening the program, 
+
+Install Tkinter in terminal:
+
 pip install tk
-*Run this line in terminal to install Pillow:
+
+Install Pillow:
+
 pip install pillow
