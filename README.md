@@ -4,7 +4,7 @@ Hello, thank you for checking out my Drawing Canvas program! It is quite simple 
 
 *****************************************************************************************************************************
 
-*If your system does not have Tkinter installed, run this line in terminal:
+*If your system has problems opening the program, install Tkinter in terminal:
 pip install tk
 *Run this line in terminal to install Pillow:
 pip install pillow
